@@ -1,6 +1,9 @@
 
 *Show these to your friends or family. My dad bought a 16tb usb from Chinese sellers and i confirmed scamage to him through these commands. Help who you can by showing them these things that are output here.* 
 
+Important: Some legitimate USB enclosures may fail SMART detection or behave differently under Linux. One failed command alone does not prove a device is counterfeit. The strongest evidence comes from combining F3 probe results, kernel I/O errors, inconsistent device geometry, and suspicious controller behavior together.
+
+
 # Fake USB / Fake SSD Discovery Commands
 
 ## 1. SMART / Bridge Detection
